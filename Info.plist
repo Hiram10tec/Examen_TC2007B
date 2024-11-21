@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>Parse</key>
+<dict>
+    <key>ApplicationId</key>
+    <string>APP_ID</string>
+    <key>ClientKey</key>
+    <string>MASTER_KEY</string>
+    <key>ServerUrl</key>
+    <string>https://examenes.meeplab.com/parse</string>
+</dict>
+</dict>
+</plist>
